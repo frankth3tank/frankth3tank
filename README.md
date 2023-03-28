@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="./images/frankth3tank.png" width="100"/>
+</div>
 
 <!--
 **frankth3tank/frankth3tank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
