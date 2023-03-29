@@ -1,5 +1,10 @@
 <div id="header" align="center">
   <img src="./images/frankth3tank.png" width="100"/>
+  <div id="badges">
+        <a href="https://www.linkedin.com/in/francisquet-vargas-037a411bb/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+    </div>
 </div>
 
 <!--
