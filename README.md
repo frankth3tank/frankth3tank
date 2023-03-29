@@ -6,6 +6,10 @@
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=frankth3tank&style=flat-square&color=blue" alt=""/>
+    <h1>
+        Welcome!!
+        <img src="./images/tank.png" width="30px"/>
+    </h1>
 </div>
 
 <!--
