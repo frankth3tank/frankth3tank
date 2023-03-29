@@ -12,6 +12,10 @@
     </h1>
 </div>
 
+<div align="center">
+  <img src="./images/coding.gif" width="600" height="300"/>
+</div>
+
 <!--
 **frankth3tank/frankth3tank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
