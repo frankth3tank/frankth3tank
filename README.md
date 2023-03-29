@@ -1,19 +1,11 @@
 <div id="header" align="center">
-  <img src="./images/frankth3tank.png" width="100"/>
+  <img src="./images/frankth3tank.png" width="500" height="500"/>
   <div id="badges">
         <a href="https://www.linkedin.com/in/francisquet-vargas-037a411bb/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
+        <img src="https://komarev.com/ghpvc/?username=frankth3tank&style=flat-square&color=blue" alt="" height="28"/>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=frankth3tank&style=flat-square&color=blue" alt=""/>
-    <h1>
-        Welcome!!
-        <img src="./images/tank.png" width="30px"/>
-    </h1>
-</div>
-
-<div align="center">
-  <img src="./images/coding.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -28,7 +20,7 @@
 
 - <img src="./images/celebrate.png" width="30px"/> In my free time, I love mentoring and helping others getting into tech.
 
-- <img src="./images/Frank.png" width="30px"/>How to reach me: <a href="https://www.linkedin.com/in/francisquet-vargas-037a411bb/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- <img src="./images/Frank.png" width="30px"/>How to reach me: fvs00725@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -55,18 +47,3 @@
 ### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frankth3tank&theme=android-dark)](https://git.io/streak-stats)
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankth3tank&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**frankth3tank/frankth3tank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
