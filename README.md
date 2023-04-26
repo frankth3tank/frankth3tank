@@ -45,5 +45,3 @@
 ---
 
 ### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frankth3tank&theme=android-dark)](https://git.io/streak-stats)
-
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankth3tank&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
